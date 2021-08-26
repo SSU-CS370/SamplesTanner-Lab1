@@ -1,1 +1,1 @@
-ECHO is on.
+Hello, CS370
